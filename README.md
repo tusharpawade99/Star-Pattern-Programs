@@ -9,6 +9,7 @@
 *********
 
 code below:-
+
 #include <stdio.h>
  
 int main()
@@ -22,6 +23,7 @@ int main()
  
    for ( row = 1 ; row <= n ; row++ )
    {
+  
       for ( c = 1 ; c < temp ; c++ )
          printf(" "); // space
  
